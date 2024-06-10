@@ -11,8 +11,8 @@ Plugin usage instructions:
 1. Install latest wordpress
 2. Install Gutenverse plugin (additional features for gutenberg or use other plugins)
 3. Download plugin files and install to wordpress via upload plugin
-4. Use this shortcode [upcoming_events] to display result of plugin everywhere
-5. Events plugin can be customize in wordpress backend
+4. add or customize event date, location, organizer and categories inside wordpress admin backend
+5. Use this shortcode [upcoming_events] to display result of plugin everywhere
 
 Theme usage instructions:
 1. Install Kadence theme or use other theme as parent theme
