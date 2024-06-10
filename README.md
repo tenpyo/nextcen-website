@@ -1,5 +1,5 @@
 # nextcen-website
-Sample website called Nextcen
+Sample plugin called Events and implemented to site called nextcen
 
 Before use this plugin:
 1. Choose stable hosting and nice domain name
