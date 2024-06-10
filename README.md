@@ -1,5 +1,5 @@
 # nextcen-website
-Sample plugin called Events and implemented to site called nextcen
+Custom post type plugin called "Events" and implemented to site called nextcen
 
 This plugin is a custom post type plugin with specific custom fields such as Event Date: A date picker field for selecting the event date, Event Location: A text field for specifying the event location, and Event Organizer: A text field for specifying the event organizer.
 Additional feature added to plugin such as custom taxonomy for event categories (e.g., Webinars, Workshops, Conferences), event filtering and search functionality
