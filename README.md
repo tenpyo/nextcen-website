@@ -2,7 +2,7 @@
 Sample website called Nextcen
 
 Before use this plugin:
-1. choose stable hosting and nice domain name
+1. Choose stable hosting and nice domain name
 
 Plugin usage instructions:
 1. Install latest wordpress
