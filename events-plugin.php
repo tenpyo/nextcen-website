@@ -3,7 +3,7 @@
 Plugin Name: Events Plugin
 Description: A plugin to create a custom post type for Events.
 Version: 1.1
-Author: Your Name
+Author: Ryan Tantri Andi
 */
 
 // Function to create custom post type for Events
