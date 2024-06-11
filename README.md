@@ -18,4 +18,3 @@ Theme usage instructions:
 1. Install Kadence theme or use other theme as parent theme
 2. Create child theme and includes functions.php, separate style.css and screenshoot of child theme(for aesthetic part)
 3. Create a page template and put shortcode [upcoming_events] to use events-plugin
-4. Install Smartslider 3 for slider feature
